@@ -1,0 +1,2 @@
+# NewJava
+Mini Java project
